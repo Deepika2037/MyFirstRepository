@@ -1,1 +1,1 @@
-print("This is my First editor repository")
+print("This is my First Editor Repository")
